@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nop:home|Door43 (nop)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nop|d43-nop repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nop/archive/master.zip|d43-nop.zip]]
+
+**Recent Changes**
+{{changes>ns = nop}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nop|Ethnologue data]]
+
